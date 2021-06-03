@@ -1,5 +1,6 @@
 # estris
 Retro-style action game with falling blocks, made in python using pygame.
+
 estris is released under the MIT license. See LICENSE for details.
 
 
